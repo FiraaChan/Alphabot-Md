@@ -20,9 +20,9 @@ global.available = false //status online (online)
 // Other
 global.botname = "ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚 Ᏼo͢Ꭲ" //namabot
 global.ownername= "ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚" //nama owner
-global.myweb ="https://api-alphabot.herokuapp.com/"
+global.myweb ="https://chat.whatsapp.com/EAMAuySd2Da3cUCYAvfVMQ"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeoneofc.github.io/"
+global.github = "https://FiraaChan.github.io/"
 global.ownernomer = "6283830815715" //nomor owner
 global.ownernomerr = "+6283830815715" // nmr owner
 global.thumbnail = "./image/lol_1.jpg" //foto bot ubah di folder image
