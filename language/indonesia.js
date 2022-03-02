@@ -2,7 +2,7 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `⏳ Mohon tunggu sebentar~`
+    return `⏳ Sabarr~`
 }
 
 exports.ok = () => {
@@ -87,7 +87,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
+saya ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚 Ᏼo͢Ꭲ, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
 `
@@ -95,7 +95,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu ɪᴹ᭄✿ 𝐟𝐢𝐫𝐚𝐚 Ᏼo͢Ꭲ :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -696,10 +696,11 @@ exports.welcome = () =>{
 ├ 𝖴𝗆𝗎𝗋 :
 ├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
 ├ 𝖠𝗌𝗄𝗈𝗍 :
+├ Husbu / Waifu :
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 🗿 Mental aman kan kak >.<
 Goodbye`
 }
 exports.source = () =>{
